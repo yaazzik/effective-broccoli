@@ -1,7 +1,6 @@
 import { defineConfig } from "vite";
 
-// Замените 'repo-name' на НАЗВАНИЕ вашего репозитория на GitHub!
-const repoName = "repo-name";
+const repoName = "effective-broccoli";
 
 export default defineConfig({
     base: `/${repoName}/`,
